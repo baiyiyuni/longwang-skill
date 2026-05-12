@@ -1,0 +1,3 @@
+﻿display_name: Market Risk Arbitrage
+short_description: 风险优先地分析加密市场机会、资金费率套利和仓位纪律。
+default_prompt: 用风险优先的方法分析这个市场机会，拆解收益来源、关键风险、需要验证的数据和执行纪律。

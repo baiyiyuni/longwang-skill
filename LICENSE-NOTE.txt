@@ -1,0 +1,3 @@
+﻿# No license selected yet.
+
+Choose a license before publishing. If you want others to reuse this repository, consider MIT or Apache-2.0. If you do not want reuse, omit a license.
